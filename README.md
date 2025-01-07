@@ -1,6 +1,6 @@
 ## 👋 Oi, eu sou o Daniel Carvalho
-- 📚 Trabalho atualmente como professor de programação e robótica
-- 🌱 Aprendendo C#, Javascript, HTML e CSS.
+- 📚 Trabalho atualmente como Supervisor de TI na empresa SOS DOCS, atuando no projeto de digitalização de documentos para o Tribunal de Justiça de Mato Grosso do Sul.
+- 🌱 Me especializando em Python e Data Science.
 
 <div align="center">
   <a href="https://github.com/Dcarvalho21">
